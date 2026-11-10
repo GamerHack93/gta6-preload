@@ -1,0 +1,23 @@
+[ERR_GEN_ZLIB_0]
+Game data corrupted. Please verify the integrity of your files.
+
+[ERR_GEN_INVALID]
+Invalid or missing game data. Reinstall the build.
+
+[ERR_STR_FAILURE_1]
+Streaming failure: not enough video memory to load the requested asset.
+
+[ERR_GFX_D3D_DEFERRED_MEM]
+DirectX 12 out of memory. Lower texture quality or close background applications.
+
+[ERR_GFX_STATE]
+Graphics device removed (DXGI_ERROR_DEVICE_HUNG).
+
+[ERR_SYS_PURE]
+Pure virtual function call. A crash dump has been written to crashdumps/.
+
+[ERR_NET_EVENT]
+Network event failed. Online features are disabled in this build.
+
+[ERR_DLC_MISSING]
+A required DLC pack failed to mount (%s).
