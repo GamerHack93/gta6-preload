@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CDataFileMgr__ContentsOfDataFileXml>
+  <disabledFiles/>
+  <includedXmlFiles/>
+  <includedDataFiles/>
+  <dataFiles>
+    <Item>
+      <filename>dlc_mpportgellhorn:/%PLATFORM%/levels/gta6/_cityw/</filename>
+      <fileType>RPF_FILE</fileType>
+      <overlay value="false"/>
+      <disabled value="true"/>
+      <persistent value="true"/>
+    </Item>
+    <Item>
+      <filename>dlc_mpportgellhorn:/common/data/streaming.meta</filename>
+      <fileType>STREAMING_FILE</fileType>
+    </Item>
+  </dataFiles>
+  <contentChangeSets>
+    <Item>
+      <changeSetName>MPPORTGELLHORN_AUTOGEN</changeSetName>
+      <filesToEnable>
+        <Item>dlc_mpportgellhorn:/%PLATFORM%/levels/gta6/_cityw/</Item>
+      </filesToEnable>
+    </Item>
+  </contentChangeSets>
+  <patchFiles/>
+</CDataFileMgr__ContentsOfDataFileXml>

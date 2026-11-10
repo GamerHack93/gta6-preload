@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SSetupData>
+  <deviceName>dlc_patchday1ng</deviceName>
+  <datFile>content.xml</datFile>
+  <timeStamp>27/08/2026 03:17:44</timeStamp>
+  <nameHash>patchday1ng</nameHash>
+  <contentChangeSetGroups>
+    <Item>
+      <NameHash>GROUP_STARTUP</NameHash>
+      <ContentChangeSets>
+        <Item>PATCHDAY1NG_AUTOGEN</Item>
+      </ContentChangeSets>
+    </Item>
+  </contentChangeSetGroups>
+  <type>EXTRACONTENT_COMPAT_PACK</type>
+  <order value="27"/>
+  <minorOrder value="0"/>
+  <isLevelPack value="false"/>
+</SSetupData>

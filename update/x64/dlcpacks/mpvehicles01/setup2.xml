@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SSetupData>
+  <deviceName>dlc_mpvehicles01</deviceName>
+  <datFile>content.xml</datFile>
+  <timeStamp>27/08/2026 03:20:44</timeStamp>
+  <nameHash>mpvehicles01</nameHash>
+  <contentChangeSetGroups>
+    <Item>
+      <NameHash>GROUP_STARTUP</NameHash>
+      <ContentChangeSets>
+        <Item>MPVEHICLES01_AUTOGEN</Item>
+      </ContentChangeSets>
+    </Item>
+  </contentChangeSetGroups>
+  <type>EXTRACONTENT_COMPAT_PACK</type>
+  <order value="30"/>
+  <minorOrder value="0"/>
+  <isLevelPack value="false"/>
+</SSetupData>

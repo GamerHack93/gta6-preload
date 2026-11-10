@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SSetupData>
+  <deviceName>dlc_mpmountkalaga</deviceName>
+  <datFile>content.xml</datFile>
+  <timeStamp>27/08/2026 03:16:44</timeStamp>
+  <nameHash>mpmountkalaga</nameHash>
+  <contentChangeSetGroups>
+    <Item>
+      <NameHash>GROUP_STARTUP</NameHash>
+      <ContentChangeSets>
+        <Item>MPMOUNTKALAGA_AUTOGEN</Item>
+      </ContentChangeSets>
+    </Item>
+  </contentChangeSetGroups>
+  <type>EXTRACONTENT_COMPAT_PACK</type>
+  <order value="26"/>
+  <minorOrder value="0"/>
+  <isLevelPack value="false"/>
+</SSetupData>

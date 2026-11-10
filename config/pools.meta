@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CGameConfig>
+  <ConfigPopulation>
+    <ScenarioPedsMultiplier_Base value="1" />
+    <ScenarioPedsMultiplier value="1" />
+    <AmbientPedsMultiplier_Base value="1" />
+    <AmbientPedsMultiplier value="1" />
+    <MaxTotalPeds_Base value="1" />
+    <MaxTotalPeds value="1" />
+    <PedMemoryMultiplier value="500" />
+    <PedsForVehicles_Base value="1" />
+    <VehicleTimesliceMaxUpdatesPerFrame_Base value="1" />
+    <VehicleAmbientDensityMultiplier value="1" />
+    <MaxNumAmbientVehicles value="1" />
+  </ConfigPopulation>
+  <ConfigStreamingEngine>
+    <ArchiveCount value="11000" />
+    <PhysicalStreamingBuffer value="0" />
+    <VirtualStreamingBuffer value="0" />
+  </ConfigStreamingEngine>
+  <PoolSizes>
+    <Entries>
+      <Item><PoolName>AnimatedBuilding</PoolName><PoolSize value="2600" /></Item>
+      <Item><PoolName>Building</PoolName><PoolSize value="72000" /></Item>
+      <Item><PoolName>CombatInfo</PoolName><PoolSize value="40" /></Item>
+      <Item><PoolName>Decorator</PoolName><PoolSize value="1600" /></Item>
+      <Item><PoolName>Entity</PoolName><PoolSize value="18000" /></Item>
+      <Item><PoolName>fwArchetypePooledMap</PoolName><PoolSize value="38000" /></Item>
+      <Item><PoolName>Peds</PoolName><PoolSize value="320" /></Item>
+      <Item><PoolName>Vehicles</PoolName><PoolSize value="420" /></Item>
+      <Item><PoolName>Object</PoolName><PoolSize value="2400" /></Item>
+      <Item><PoolName>TxdStore</PoolName><PoolSize value="42000" /></Item>
+    </Entries>
+  </PoolSizes>
+</CGameConfig>
