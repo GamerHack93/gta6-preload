@@ -1,0 +1,507 @@
+{
+  "build": "0.71.4113-dev",
+  "branch": "dev_ng_live",
+  "changelist": 31847293,
+  "compiled": "2026-08-27T03:14:07Z",
+  "platform": "x64",
+  "config": "BankRelease",
+  "file_count": 99,
+  "total_size": 328409007656,
+  "files": [
+    {
+      "path": "GTA6_dev.exe",
+      "size": 432331776,
+      "sha256": "6aad55e25410307877f1c3781aa5f845e19b5e64cf61914979d8bb832c1379c3"
+    },
+    {
+      "path": "PlayGTAVI.exe",
+      "size": 6368768,
+      "sha256": "16a3f229bcc9380fda7a396b559b56cffaaaf2750179b3de671c55e23659ba5e"
+    },
+    {
+      "path": "GTAVILauncher.exe",
+      "size": 39857152,
+      "sha256": "2b3f2b0f02a65d2ac7087f10dd22b9d44c87555a14c80d7715552c28d47687f2"
+    },
+    {
+      "path": "bink2w64.dll",
+      "size": 643758,
+      "sha256": "142802c21c85002792b854542566bf2b480f8db3b78427b42b14d25c85a27d95"
+    },
+    {
+      "path": "d3dcompiler_47.dll",
+      "size": 4480926,
+      "sha256": "073e15705b938f54e2e2c5b9ee6b364b27516311b8d79c16333b1edebc417beb"
+    },
+    {
+      "path": "dxcompiler.dll",
+      "size": 17980174,
+      "sha256": "09dd5eef86689ff7a41087eed1c6ca307f4d9cbb530e680dffdd43d92993e0a4"
+    },
+    {
+      "path": "dxil.dll",
+      "size": 1551282,
+      "sha256": "ea7bea09392300b1ccf34ea10cbb4d6933e098d6a0b7a6779682ceaf7f2c230b"
+    },
+    {
+      "path": "nvngx_dlss.dll",
+      "size": 33362295,
+      "sha256": "f6e4cdf1f6f41787f4aee3c57b7be6d85a25e806d5f576ba600e1f87f28359c4"
+    },
+    {
+      "path": "nvngx_dlssg.dll",
+      "size": 5187972,
+      "sha256": "2815a6a6021534f7670b368a1db6e735601be1b4857e62f0622c84022460a5b0"
+    },
+    {
+      "path": "sl.interposer.dll",
+      "size": 1298996,
+      "sha256": "fa71e1b77a858de21964dc4708d3bba9369130bd9018d70406f52615bd905604"
+    },
+    {
+      "path": "sl.dlss.dll",
+      "size": 1039721,
+      "sha256": "94c1ffb351d283dd485619b93b727cde3230e49e146b447d678bd3070e8bfca8"
+    },
+    {
+      "path": "amd_fidelityfx_dx12.dll",
+      "size": 6951476,
+      "sha256": "5ca00ce8811b527d997e6c1c3fda23e814e9c835a958a578d7484502083e0622"
+    },
+    {
+      "path": "libxess.dll",
+      "size": 51725019,
+      "sha256": "a89f67b8a27f564cf029a72bb1ad062e485fee356d6049d8ef8fb6370d966ba9"
+    },
+    {
+      "path": "GFSDK_Aftermath_Lib.x64.dll",
+      "size": 2460175,
+      "sha256": "a68ad4fb61d28877c0f02031a51e2a79c757f4b82b35914e430f739b82d9cf57"
+    },
+    {
+      "path": "oo2core_9_win64.dll",
+      "size": 1027300,
+      "sha256": "4fbbf04b13e07608f57a3db87fe58c839f87f47b5513cbc91ad1e8f40a28bb9c"
+    },
+    {
+      "path": "PhysX3_x64.dll",
+      "size": 2252890,
+      "sha256": "38b89ecd2650fe5effa4c025043077a2fbb0bd2a7646d8264a4452a6caef9a58"
+    },
+    {
+      "path": "tbb12.dll",
+      "size": 502405,
+      "sha256": "2a2d101e6902c5b64c0b284bfc28a3d7fec58caf073289d694c696d23723667f"
+    },
+    {
+      "path": "WwiseRuntime_x64.dll",
+      "size": 7781251,
+      "sha256": "8d58fa7c7601e799e660ea4c6f2e248c170d5877651d3379d778e256c6a8a682"
+    },
+    {
+      "path": "common.rpf",
+      "size": 12566433239,
+      "sha256": "f876c3c3c20d35b5436bbb1cc2e3e709251481b9201fdb5eaae2d2bbec8ba2c5"
+    },
+    {
+      "path": "x64a.rpf",
+      "size": 5105731597,
+      "sha256": "5383c753b9dda36661e32c9cdc6e90b026401b7917df4db80d71ef75a8b9dbca"
+    },
+    {
+      "path": "x64b.rpf",
+      "size": 5493317372,
+      "sha256": "e7a8f4c84f309184591c6b2a9cb3b4404621240a704c095cfefff3859f0fae34"
+    },
+    {
+      "path": "x64c.rpf",
+      "size": 6278330499,
+      "sha256": "99e9c0e578bdbcc960e438f0dc48ae826044632cfe2d8b04435e517144b37beb"
+    },
+    {
+      "path": "x64d.rpf",
+      "size": 9489964066,
+      "sha256": "b0c88ab589294691aff6f551c99e52aab84316524bd553a4571208f9efd6a417"
+    },
+    {
+      "path": "x64e.rpf",
+      "size": 3752410285,
+      "sha256": "b01dc8c2d5a86f15f3facbc40a26be50df935bf5e3c492a7ad496a21b4a907bd"
+    },
+    {
+      "path": "x64f.rpf",
+      "size": 8741667169,
+      "sha256": "06f2a0182c52599033fee04280f1a3dea42f765376a40fd63cdd5f6f3f18521b"
+    },
+    {
+      "path": "x64g.rpf",
+      "size": 8664167038,
+      "sha256": "c0136114d1a1c715e1fd222cf26235d47063bb56d01378c3ed043da75f8788a9"
+    },
+    {
+      "path": "x64h.rpf",
+      "size": 3203210901,
+      "sha256": "bc9e51d375d14f0757e5ddb27795bfe6d240cb80f284c6934eea07d71b354bd9"
+    },
+    {
+      "path": "x64i.rpf",
+      "size": 4309448777,
+      "sha256": "a4de6cc4c8319b15ba348976c739542daddf9de6fb1193554d7096eb45331f00"
+    },
+    {
+      "path": "x64j.rpf",
+      "size": 5225978216,
+      "sha256": "e12d63473b8f07f8273e9283cf46f755095b52a3abd83a6a6bdee30c4c6bee50"
+    },
+    {
+      "path": "x64k.rpf",
+      "size": 9416638617,
+      "sha256": "fb50b777a79a5dc80e74401c81ba458fff4ae2e6187f83d8828bf14bcbc01f55"
+    },
+    {
+      "path": "x64l.rpf",
+      "size": 5441047442,
+      "sha256": "04f0217eb499fa1f28a459d2b39b51a095114b1bc0186f44bde0140752275f6f"
+    },
+    {
+      "path": "x64m.rpf",
+      "size": 2801737345,
+      "sha256": "94ca9880434de7b14df4898fb7fb004b2a808c6912a7233734eab2f6956ebf7c"
+    },
+    {
+      "path": "x64n.rpf",
+      "size": 2778298169,
+      "sha256": "3c4f0f9eacbaa3be779a30849f7eed4ca4da5f030225d34f64136ab1374635c6"
+    },
+    {
+      "path": "x64o.rpf",
+      "size": 4648459045,
+      "sha256": "70c2d095c820d43fcf4d11947831e4d42397d2a87f393cc2183244533e97fa26"
+    },
+    {
+      "path": "x64p.rpf",
+      "size": 7215451432,
+      "sha256": "dca1e1ec68e3c6dd1311069af762c69adfbe66f1be591fe7886dbd891049a464"
+    },
+    {
+      "path": "x64q.rpf",
+      "size": 7383494150,
+      "sha256": "3d995a05abc45427b4572d0a7e71ac42dd9a000f9cf23ab9a9dcbb3c06741724"
+    },
+    {
+      "path": "x64r.rpf",
+      "size": 2952449469,
+      "sha256": "b4524a552b71cefdc04362a83c312e54e25bc395daf1163ef5be20b9aa3cf954"
+    },
+    {
+      "path": "x64s.rpf",
+      "size": 8640735547,
+      "sha256": "7288ff6cf6f5883a7b77093aaebb90fc440eb91d63d6e669fb1a87c170ad9490"
+    },
+    {
+      "path": "x64t.rpf",
+      "size": 4172428425,
+      "sha256": "832d28bb5acdd032eaf793baf449d7d5fec1bed02fcb3770d066b002ad209861"
+    },
+    {
+      "path": "x64u.rpf",
+      "size": 8312237190,
+      "sha256": "4771ba148d2e174e3254f226401fc2f44a669dd6bb6a8e2809562fbdb2942183"
+    },
+    {
+      "path": "x64v.rpf",
+      "size": 4479343216,
+      "sha256": "ce699e4acef14c1a5ba6cc98ad117b333c76f655281df7a9b203a65d581662e8"
+    },
+    {
+      "path": "x64w.rpf",
+      "size": 5109009361,
+      "sha256": "228c9197da15c3ae84d488baf86a4d616cc489f7d65b91618f2dedcbda018afb"
+    },
+    {
+      "path": "update/update.rpf",
+      "size": 15466572601,
+      "sha256": "8f5f53f019915ec72b7c5ca7a31c84efa22d330e87801574b90e91ef6b40a92f"
+    },
+    {
+      "path": "update/update2.rpf",
+      "size": 3529510091,
+      "sha256": "f15fce96157656b0a000f639bb87f07903945e2bd42bd51049fa0287abaf7411"
+    },
+    {
+      "path": "update/x64/data/shadercache_dx12.rpf",
+      "size": 1967491603,
+      "sha256": "2a3253d37ba9bb0aa8f7f8ebfa1868a6cba465db887ff5208e4a4e41457b964e"
+    },
+    {
+      "path": "update/x64/dlcpacks/mpvicecity/dlc.rpf",
+      "size": 19782982614,
+      "sha256": "4df6b96758603480d32705de1e22d982cfc9be9d22f40f719773e09260e8a8b8"
+    },
+    {
+      "path": "update/x64/dlcpacks/mpleonida/dlc.rpf",
+      "size": 23875638846,
+      "sha256": "550edd29500c132b5e2ec1e4d2c3df33b7f109ecdc97001b35cd4fa6a415c819"
+    },
+    {
+      "path": "update/x64/dlcpacks/mpkeys/dlc.rpf",
+      "size": 10322211909,
+      "sha256": "2583969cdde037418f315244e20f4895e8ed56c3e8a6274a2892c7847b5638e4"
+    },
+    {
+      "path": "update/x64/dlcpacks/mpgrassrivers/dlc.rpf",
+      "size": 8441193909,
+      "sha256": "608d216cfbba61e776ffac123a674894cba20d86288fbbb42e62473a409041f9"
+    },
+    {
+      "path": "update/x64/dlcpacks/mpambrosia/dlc.rpf",
+      "size": 6984196807,
+      "sha256": "1b4717b15d5a4359ae53479b6b451e2f1b1e13ca3809665b0d411ccb8d888e4a"
+    },
+    {
+      "path": "update/x64/dlcpacks/mpportgellhorn/dlc.rpf",
+      "size": 9729126523,
+      "sha256": "69e53f6b0adc4eaa2c2c61cab39279b7e02291731222596ec6b5d4f37b027e1b"
+    },
+    {
+      "path": "update/x64/dlcpacks/mpmountkalaga/dlc.rpf",
+      "size": 6685056469,
+      "sha256": "82e9c3a20afb59e2f336967d384f09177734b655c13cde330c881ec28539c1e4"
+    },
+    {
+      "path": "update/x64/dlcpacks/patchday1ng/dlc.rpf",
+      "size": 3022825422,
+      "sha256": "0df7a107154e7abf8dc845a535418e93e807a1779bdcfce7ee762fb38afaa945"
+    },
+    {
+      "path": "update/x64/dlcpacks/patchday2ng/dlc.rpf",
+      "size": 3400025171,
+      "sha256": "edf78261c0797cb4ff821d82677ebc0431531bdf8dee1c8349529d12e2e1e8e3"
+    },
+    {
+      "path": "update/x64/dlcpacks/patchday3ng/dlc.rpf",
+      "size": 3703334715,
+      "sha256": "a56cc259b5d330a9d6b406ececbf9843ee855090b4d16d6ede3c6f410ce12566"
+    },
+    {
+      "path": "update/x64/dlcpacks/mpvehicles01/dlc.rpf",
+      "size": 5055722301,
+      "sha256": "b043ec7e1b02f7269ebf56fc8dbe72a21c83ddb8582554b12620bf788bb7453e"
+    },
+    {
+      "path": "update/x64/dlcpacks/mpvehicles02/dlc.rpf",
+      "size": 4406774580,
+      "sha256": "fe97b213a64986afd348460356f5634abfbf6908b3d8409481b3af5c4dede4b0"
+    },
+    {
+      "path": "update/x64/dlcpacks/mpweapons01/dlc.rpf",
+      "size": 1717864727,
+      "sha256": "893793430ef06c6c8f7372a20dab3c3d94645af9c732465b215521d09b795406"
+    },
+    {
+      "path": "update/x64/dlcpacks/mpclothes01/dlc.rpf",
+      "size": 3076805252,
+      "sha256": "33c866afb1637e75b0ecf56ece9636adb651a9cb6b7101a943150120f7fd809f"
+    },
+    {
+      "path": "x64/audio/audio_rel.rpf",
+      "size": 1101041500,
+      "sha256": "b88d48603aa65e328e712e2b044da30b38f69a2e497da888d91d78acf1328a7d"
+    },
+    {
+      "path": "x64/audio/sfx/RESIDENT.rpf",
+      "size": 984339117,
+      "sha256": "4492166e401e8574002cd70010337ab64ec7ae79a434f357fc41a7686f282dd2"
+    },
+    {
+      "path": "x64/audio/sfx/STREAMED_VEHICLES.rpf",
+      "size": 2420774100,
+      "sha256": "828a4b0441930f49aa1a49b9d65d1073bf9d6195786674bb8c305548a8377db9"
+    },
+    {
+      "path": "x64/audio/sfx/STREAMED_VEHICLES_LOW_LATENCY.rpf",
+      "size": 435572041,
+      "sha256": "9c553b78883504a5848ac4ee55d31b31c88a45a872ea1605c88814ef6c26f40d"
+    },
+    {
+      "path": "x64/audio/sfx/WEAPONS_PLAYER.rpf",
+      "size": 543019785,
+      "sha256": "25c248abc29d90b144940dbcb166d9bbf90976e87d2b9272f60b3f770d62c485"
+    },
+    {
+      "path": "x64/audio/sfx/WEAPONS_NPC.rpf",
+      "size": 342422360,
+      "sha256": "217b8dfa80e7b11c09afb0ba1fa0bbc2bc0a0976cbbe432b64d6162bf408a174"
+    },
+    {
+      "path": "x64/audio/sfx/STREAMED_AMBIENCE.rpf",
+      "size": 1865539764,
+      "sha256": "c3868ee67952922db79696cac5f7343566e74f3dc5bbabe3324d76e54ba3fc48"
+    },
+    {
+      "path": "x64/audio/sfx/POLICE_SCANNER.rpf",
+      "size": 891101293,
+      "sha256": "0501624d78e802bc25d9d3fb64b223d465ae1143b26940b9a371951c8581e31a"
+    },
+    {
+      "path": "x64/audio/sfx/PROLOGUE.rpf",
+      "size": 229112118,
+      "sha256": "34afc9baee8fa0257e143a96b31d2a37cbceb7dfbd46b841fc5bd876e4b2e269"
+    },
+    {
+      "path": "x64/audio/sfx/SCRIPT.rpf",
+      "size": 4106494898,
+      "sha256": "306c7e7e599159db78ea9e28a8a6992cdb79f36e3562fbc6a9bd5061c1269644"
+    },
+    {
+      "path": "x64/audio/sfx/CUTSCENE_MASTERED_ONLY.rpf",
+      "size": 6776975738,
+      "sha256": "d1284b56b81cfe7d5b11f48ad7c1846455c3f2d910a531322622a0f619940c9a"
+    },
+    {
+      "path": "x64/audio/sfx/SS_AC.rpf",
+      "size": 1189244899,
+      "sha256": "7d6c1cc279159d77f7cf0b7a2da2ef111ce1f54dd36de0519eb1c92c7fc80b96"
+    },
+    {
+      "path": "x64/audio/sfx/SS_DE.rpf",
+      "size": 1266901900,
+      "sha256": "a01cdfe1b96e73bc9c8ef73dab4eaf7e35c0a80d1010d70d41781d68deecc773"
+    },
+    {
+      "path": "x64/audio/sfx/SS_FF.rpf",
+      "size": 1179686191,
+      "sha256": "21d35e51fd1d3e90b5595a7243b808527ce6dae0a4936942a80882dd08ac1ea6"
+    },
+    {
+      "path": "x64/audio/sfx/SS_GM.rpf",
+      "size": 1358134366,
+      "sha256": "66887ca0ac43065bdf9659bb28fcec610d9260ac3b8872e6bef2d55010b70670"
+    },
+    {
+      "path": "x64/audio/sfx/SS_NP.rpf",
+      "size": 1033185755,
+      "sha256": "60437928c26d07bedac4e50f2a8548db9c3285c661590319641b8146656cc488"
+    },
+    {
+      "path": "x64/audio/sfx/SS_QR.rpf",
+      "size": 1374837263,
+      "sha256": "3502fca57a41fc5dd36580006632c993bc5f02856dea273625ba3d188351ece3"
+    },
+    {
+      "path": "x64/audio/sfx/SS_ST.rpf",
+      "size": 1244179359,
+      "sha256": "15f52377b2c0cb020c27a31e19c6e55120d407b9e32b8e3342617dfd31fdf4fa"
+    },
+    {
+      "path": "x64/audio/sfx/SS_UZ.rpf",
+      "size": 1060073635,
+      "sha256": "08be401ebbb7a4b4b5b6e3c2033dd0de214d1194de56833f160427f212daced0"
+    },
+    {
+      "path": "x64/audio/sfx/INTERACTIVE_MUSIC.rpf",
+      "size": 2043895370,
+      "sha256": "e9ac81c6f5f089277c47706d69d1b6778fd968e3465e78f134648495a3235d3c"
+    },
+    {
+      "path": "x64/audio/sfx/RADIO_01_CLASS_ROCK.rpf",
+      "size": 1444875891,
+      "sha256": "c58907bf5ef9e403f714f62718da21a5d22064f314a236aeea844ac267927035"
+    },
+    {
+      "path": "x64/audio/sfx/RADIO_02_POP.rpf",
+      "size": 1062482565,
+      "sha256": "53746f2b49d9e4b2fdfc210864447f2a17e08849cab9992a2b7726f0970492d3"
+    },
+    {
+      "path": "x64/audio/sfx/RADIO_03_HIPHOP_NEW.rpf",
+      "size": 732311354,
+      "sha256": "120ee510ed1a1cb4fca8b29bbce67067b7ceeba859d066bf14307396db329291"
+    },
+    {
+      "path": "x64/audio/sfx/RADIO_04_LATIN.rpf",
+      "size": 1289394805,
+      "sha256": "0dd90bc56d6cc136cc8b40c4080d36bc8316309cd1735514d05968ac1f7370ab"
+    },
+    {
+      "path": "x64/audio/sfx/RADIO_05_TALK.rpf",
+      "size": 747216292,
+      "sha256": "c4a8c492ebd663e6ed47d8129307617a1f8863a83703002224220065de5e30df"
+    },
+    {
+      "path": "x64/audio/sfx/RADIO_06_COUNTRY.rpf",
+      "size": 1232565294,
+      "sha256": "3d628f2f3737f6d2ea530780cb2316392f87deb88bdc64e3436b8b87eb439173"
+    },
+    {
+      "path": "x64/audio/sfx/RADIO_07_DANCE.rpf",
+      "size": 1082039510,
+      "sha256": "72f0330d4432e81f948a50c71f11f19cd732fb13c152677dbc7fe8f2046356a8"
+    },
+    {
+      "path": "x64/audio/sfx/RADIO_08_RNB.rpf",
+      "size": 1063199676,
+      "sha256": "f52de74ab667a5578d858e2b7507dba338e4af74214eba6dff70b68c3a5d760c"
+    },
+    {
+      "path": "x64/audio/sfx/RADIO_09_REGGAETON.rpf",
+      "size": 809376242,
+      "sha256": "6e36b7d80f3653891ea84633afab02525069aad700bf101368a1ac7738e2944b"
+    },
+    {
+      "path": "x64/audio/sfx/RADIO_10_NEWS.rpf",
+      "size": 1494766143,
+      "sha256": "2d9881df6ac88436d1c72eac38eda805d686d4e4eecf50c99efbd85403403114"
+    },
+    {
+      "path": "x64/audio/sfx/RADIO_11_FUNK.rpf",
+      "size": 738677350,
+      "sha256": "2cad5688c3fa80700d86676ca2e3e001dc4bc3688034936da2c3f9c56b5b14a1"
+    },
+    {
+      "path": "x64/movies/rockstar_logos.bk2",
+      "size": 527547347,
+      "sha256": "9ba041deef16b967221e4482e048caa4574c1bd13ca6ad4852797fd40a8dd55d"
+    },
+    {
+      "path": "x64/movies/intro_vc_01.bk2",
+      "size": 837037652,
+      "sha256": "a5daa3d9a412362a1f40d253f94936cf61f8dd2ffecffe61969f3e59fc6facb0"
+    },
+    {
+      "path": "x64/movies/intro_vc_02.bk2",
+      "size": 531551407,
+      "sha256": "6a2203048b0e57c2da8286611afe86fd8f996224879123ca6e86b71ef99562b0"
+    },
+    {
+      "path": "x64/movies/loading_bg_01.bk2",
+      "size": 202438058,
+      "sha256": "3bbe74753f5f3e55a02d43a17b0bd9b3acd344466e6d58ecac68cf7172926b20"
+    },
+    {
+      "path": "x64/movies/loading_bg_02.bk2",
+      "size": 447126243,
+      "sha256": "c51300347ee2dca6994fcd47dd5a0735aae421269b486707f9c5fbc7a4e0cb15"
+    },
+    {
+      "path": "x64/movies/credits_bg.bk2",
+      "size": 527971876,
+      "sha256": "57325a4f0de4c1d0ccfd34551ce7e3b2d7a60d1abceaf879a26fe4c7ba747793"
+    },
+    {
+      "path": "x64/movies/phone_tutorial.bk2",
+      "size": 640199169,
+      "sha256": "9bc92f7b2d3e00f77b2fbefeb16eeaa014f0d6fbacd38e38f00a918376345507"
+    },
+    {
+      "path": "symbols/GTA6_dev.pdb",
+      "size": 3385966330,
+      "sha256": "b15364d2814fef01cedab3abd830dbb030d9d1e9f6b143b10dbfe6fd11e57def"
+    },
+    {
+      "path": "symbols/GTA6_dev.map",
+      "size": 199607557,
+      "sha256": "bff128d54973ea77c39c8ecede51caf1d4263b6632677a20e789a68be0269409"
+    }
+  ]
+}

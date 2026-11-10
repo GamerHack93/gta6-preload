@@ -1,0 +1,7 @@
+-nointro
+-noBattlEye
+-dx12
+-streamingbudget 6144
+-frameLimit 0
+-enableDebugConsole
+-logfile=crashdumps/game.log

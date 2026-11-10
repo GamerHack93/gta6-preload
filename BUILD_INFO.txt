@@ -1,0 +1,10 @@
+BUILD_ID      : 0.71.4113-dev
+BRANCH        : dev_ng_live
+CHANGELIST    : 31847293
+COMPILED      : 2026-08-27 03:14:07 UTC
+TOOLCHAIN     : MSVC 19.40.33811 / RAGE NG
+CONFIG        : BankRelease
+RENDERER      : DX12
+FILES         : 99
+TOTAL SIZE    : 328409007656 bytes (305.9 GB)
+SIGNED        : NO
